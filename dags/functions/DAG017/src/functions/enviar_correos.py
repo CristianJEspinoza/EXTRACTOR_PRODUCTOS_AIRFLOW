@@ -9,22 +9,26 @@ class EnviarCorreos:
     tipo_ver = []
     path_file = ""
 
-    def __init__(self, tipo_veri, path_attach):
+    def __init__(self, tipo_veri, path_attach, fromCorreo,ToCorreo,CCCorreo, password):
         self.tipo_ver = tipo_veri
         self.path_file = path_attach
+        self.fromCorreo =  fromCorreo
+        self.ToCorreo = ToCorreo
+        self.CCCorreo = CCCorreo
+        self.password = password
 
     def enviarCorreo(self):
 
         # Creando Instancia de correo
         msg = MIMEMultipart()
 
-        # Configurando parametros de envio
-        password = "huaraz2024.."
-        msg['From'] = "cristian.espinoza@terranovatrading.com.pe"
-        msg['To'] = "estefano.espinoza@terranovatrading.com.pe"
+        password = self.password
+        msg['From'] = self.fromCorreo
+        msg['To'] = self.ToCorreo
         msg['Subject'] = "Reporte de Verificación de Extractos"
-        msg['CC'] = "katherine.rodriguez@terranovatrading.com.pe;joselin.gonzales@terranovatrading.com.pe;jefferson.guerrero@terranovatrading.com.pe;swat.team@terranovatrading.com.pe"
-
+        msg['CC'] = self.CCCorreo
+        
+        
         # Agregando contenido de mensaje
         # msg.attach(MIMEText(message, 'plain'))
         msg_contenido = ""

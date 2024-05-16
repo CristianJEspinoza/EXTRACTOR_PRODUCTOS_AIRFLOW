@@ -37,6 +37,12 @@ ListaExinventUnitSymbol =[100051,100054,100067,100170,100198,100199,100260,10068
                             108796,109318,109327,109351,110016,110017,110018,110019,110020,110021,110022,110023,110025,110027,110028,
                             110225,110349,110715,107167,111179,111995,112104,112177,112190,112205,112497,112595]
 
+###Extraccion de datos del Airflow
+usuarioFrom = str(Variable.get("fromCorreo"))
+contra = str(Variable.get("passwordC"))
+#Valores para correo de Extractos
+toPro = str(Variable.get("ToCorreoExtractos"))
+CCCPro = str(Variable.get("CCCorreoExtractos"))
 # Obtener los valores de las variables de Airflow
 barcodeExtrac = Variable.get("barCode", deserialize_json=True)
 unitExtrac = Variable.get("andU", deserialize_json=True)
@@ -57,7 +63,7 @@ def execute():
         ####
         if len(tipo_verificacion) != 0:
             p_attach = ruta_archivo
-            correo = EnviarCorreos(tipo_verificacion,p_attach)
+            correo = EnviarCorreos(tipo_verificacion,p_attach,usuarioFrom,toPro,CCCPro,contra)
             correo.enviarCorreo()
             print("correos enviados")
         else:

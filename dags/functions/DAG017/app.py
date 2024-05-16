@@ -4,11 +4,22 @@ def execute_application(ApiDynamics,EnviarCorreos,EnviarCorreosCli):
     import openpyxl
     from openpyxl.utils.dataframe import dataframe_to_rows
     from datetime import datetime
+    from airflow.models import Variable
     
     # inicmomos nuestra lista de transacciones con errores
     transacciones_con_errores = []
     lista_numeros_extractos = None
     transacciones_con_errores_extractos = None
+    
+    ###Extraccion de datos del Airflow
+    usuarioFrom = str(Variable.get("fromCorreo"))
+    contra = str(Variable.get("passwordC"))
+    #Valores para correo de Extractos
+    toEx = str(Variable.get("ToCorreoExtractos"))
+    CCCEx = str(Variable.get("CCCorreoExtractos"))
+    #Valores para correo de Clientes
+    toCli = str(Variable.get("ToCorreoCliente"))
+    CCCCli = str(Variable.get("CCCorreoClientes"))
 
     print(" --- Iniciando la ejecucion del aplicativo --")
     ap = ApiDynamics()
@@ -253,7 +264,7 @@ def execute_application(ApiDynamics,EnviarCorreos,EnviarCorreosCli):
         ####
         if len(tipo_verificacion) != 0:
             p_attach = ruta_archivo
-            correo = EnviarCorreos(tipo_verificacion,p_attach)
+            correo = EnviarCorreos(tipo_verificacion,p_attach, usuarioFrom, toEx, CCCEx, contra)
             correo.enviarCorreo()
             print("correos enviados")
         else:
@@ -300,7 +311,7 @@ def execute_application(ApiDynamics,EnviarCorreos,EnviarCorreosCli):
     ####
     if len(tipo_verificacion_cliente) != 0:
         p_attach = ruta_archivo
-        correo = EnviarCorreosCli(tipo_verificacion_cliente,p_attach)
+        correo = EnviarCorreosCli(tipo_verificacion_cliente,p_attach, usuarioFrom, toCli, CCCCli, contra)
         correo.enviarCorreo()
         print("correos enviados")
     else:

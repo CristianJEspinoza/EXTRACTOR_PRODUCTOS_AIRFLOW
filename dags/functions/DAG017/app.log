@@ -1,0 +1,344 @@
+2024-02-26 11:12:51,387 - INFO - 1- VALIDACION - MODULO TRANSACCIONES DE LA TIENDA
+2024-02-26 11:12:52,907 - INFO - No se encontraron errores en las transacciones de la tienda.
+2024-02-26 11:12:52,907 - INFO - 2- VALIDACION - MODULO 
+2024-02-26 11:12:59,747 - INFO - No se encontraron errores en los extractos.
+2024-02-26 11:12:59,747 - INFO - 2.1- Obtencion de transacciones con errores
+2024-02-26 11:12:59,747 - INFO - no se consultan las transacciones de los errores de extractos.
+2024-02-26 11:12:59,747 - INFO - no se añaden las transacciones de la tienda a la lista actual.
+2024-02-26 11:12:59,747 - INFO - No hay transacciones con errores
+2024-02-26 11:49:35,180 - INFO - Si se realizo la validacion de conversion de unidades.
+2024-02-26 11:58:41,126 - INFO - 4- VALIDACION - MODULO CONVERSION DE UNIDADES
+2024-02-26 11:58:41,126 - INFO - Si se realizo la validacion de conversion de unidades.
+2024-02-26 12:07:01,056 - INFO - 4- VALIDACION - MODULO CONVERSION DE UNIDADES
+2024-02-26 12:07:01,057 - INFO - Si se realizo la validacion de conversion de unidades.
+2024-02-26 12:07:01,057 - INFO - 5- VALIDACION - MODULO ALMACENES
+2024-02-26 12:07:08,105 - INFO - Si se realizo la validacion de conversion de unidades.
+2024-02-26 12:07:08,105 - INFO - 6- FILTRADO DE DATOS
+2024-02-26 12:08:43,505 - INFO - 4- VALIDACION - MODULO CONVERSION DE UNIDADES
+2024-02-26 12:08:43,506 - INFO - Si se realizo la validacion de conversion de unidades.
+2024-02-26 12:08:43,508 - INFO - 5- VALIDACION - MODULO ALMACENES
+2024-02-26 12:08:50,045 - INFO - Si se realizo la validacion de conversion de unidades.
+2024-02-26 12:11:08,654 - INFO - 4- VALIDACION - MODULO CONVERSION DE UNIDADES
+2024-02-26 12:11:08,654 - INFO - Si se realizo la validacion de conversion de unidades.
+2024-02-26 12:11:08,654 - INFO - 5- VALIDACION - MODULO ALMACENES
+2024-02-26 12:11:15,074 - INFO - Si se realizo la validacion de conversion de unidades.
+2024-02-26 12:20:48,953 - INFO - 4- VALIDACION - MODULO CONVERSION DE UNIDADES
+2024-02-26 12:20:48,953 - INFO - Si se realizo la validacion de conversion de unidades.
+2024-02-26 12:20:48,953 - INFO - 5- VALIDACION - MODULO ALMACENES
+2024-02-26 12:20:55,317 - INFO - Si se realizo la validacion de conversion de unidades.
+2024-02-26 12:47:16,987 - INFO - 4- VALIDACION - MODULO CONVERSION DE UNIDADES
+2024-02-26 12:47:16,987 - INFO - Si se realizo la validacion de conversion de unidades.
+2024-02-26 12:47:16,987 - INFO - 5- VALIDACION - MODULO ALMACENES
+2024-02-26 12:47:23,427 - INFO - Si se realizo la validacion de almacenes.
+2024-02-26 12:47:23,435 - INFO - 6- VALIDACION - MODULO UNIDAD INVENTARIO
+2024-02-26 12:47:32,334 - INFO - Si se realizo la validacion de unidad de inventario.
+2024-02-26 12:48:26,694 - INFO - 4- VALIDACION - MODULO CONVERSION DE UNIDADES
+2024-02-26 12:48:26,694 - INFO - Si se realizo la validacion de conversion de unidades.
+2024-02-26 12:48:26,694 - INFO - 5- VALIDACION - MODULO ALMACENES
+2024-02-26 12:48:33,289 - INFO - Si se realizo la validacion de almacenes.
+2024-02-26 12:48:33,297 - INFO - 6- VALIDACION - MODULO UNIDAD INVENTARIO
+2024-02-26 12:48:39,614 - INFO - Si se realizo la validacion de unidad de inventario.
+2024-02-26 12:49:21,588 - INFO - 4- VALIDACION - MODULO CONVERSION DE UNIDADES
+2024-02-26 12:49:21,588 - INFO - Si se realizo la validacion de conversion de unidades.
+2024-02-26 12:49:21,588 - INFO - 5- VALIDACION - MODULO ALMACENES
+2024-02-26 12:49:28,174 - INFO - Si se realizo la validacion de almacenes.
+2024-02-26 12:49:28,174 - INFO - 6- VALIDACION - MODULO UNIDAD INVENTARIO
+2024-02-26 12:49:34,411 - INFO - Si se realizo la validacion de unidad de inventario.
+2024-02-26 12:49:50,669 - INFO - 4- VALIDACION - MODULO CONVERSION DE UNIDADES
+2024-02-26 12:49:50,669 - INFO - Si se realizo la validacion de conversion de unidades.
+2024-02-26 12:49:50,669 - INFO - 5- VALIDACION - MODULO ALMACENES
+2024-02-26 12:49:57,156 - INFO - Si se realizo la validacion de almacenes.
+2024-02-26 12:49:57,168 - INFO - 6- VALIDACION - MODULO UNIDAD INVENTARIO
+2024-02-26 12:50:03,272 - INFO - Si se realizo la validacion de unidad de inventario.
+2024-02-26 12:51:18,670 - INFO - 4- VALIDACION - MODULO CONVERSION DE UNIDADES
+2024-02-26 12:51:18,670 - INFO - Si se realizo la validacion de conversion de unidades.
+2024-02-26 12:51:18,670 - INFO - 5- VALIDACION - MODULO ALMACENES
+2024-02-26 12:51:25,263 - INFO - Si se realizo la validacion de almacenes.
+2024-02-26 12:51:25,287 - INFO - 6- VALIDACION - MODULO UNIDAD INVENTARIO
+2024-02-26 12:51:31,473 - INFO - Si se realizo la validacion de unidad de inventario.
+2024-02-26 12:52:30,307 - INFO - 4- VALIDACION - MODULO CONVERSION DE UNIDADES
+2024-02-26 12:52:30,307 - INFO - Si se realizo la validacion de conversion de unidades.
+2024-02-26 12:52:30,307 - INFO - 5- VALIDACION - MODULO ALMACENES
+2024-02-26 12:52:36,671 - INFO - Si se realizo la validacion de almacenes.
+2024-02-26 12:52:36,686 - INFO - 6- VALIDACION - MODULO UNIDAD INVENTARIO
+2024-02-26 12:52:43,006 - INFO - Si se realizo la validacion de unidad de inventario.
+2024-02-26 12:53:49,538 - INFO - 4- VALIDACION - MODULO CONVERSION DE UNIDADES
+2024-02-26 12:53:49,538 - INFO - Si se realizo la validacion de conversion de unidades.
+2024-02-26 12:53:49,538 - INFO - 5- VALIDACION - MODULO ALMACENES
+2024-02-26 12:53:56,133 - INFO - Si se realizo la validacion de almacenes.
+2024-02-26 12:53:56,133 - INFO - 6- VALIDACION - MODULO UNIDAD INVENTARIO
+2024-02-26 12:54:02,326 - INFO - Si se realizo la validacion de unidad de inventario.
+2024-02-26 12:54:38,002 - INFO - 4- VALIDACION - MODULO CONVERSION DE UNIDADES
+2024-02-26 12:54:38,007 - INFO - Si se realizo la validacion de conversion de unidades.
+2024-02-26 12:54:38,007 - INFO - 5- VALIDACION - MODULO ALMACENES
+2024-02-26 12:54:44,322 - INFO - Si se realizo la validacion de almacenes.
+2024-02-26 12:54:44,322 - INFO - 6- VALIDACION - MODULO UNIDAD INVENTARIO
+2024-02-26 12:54:50,723 - INFO - Si se realizo la validacion de unidad de inventario.
+2024-02-26 12:55:54,160 - INFO - 4- VALIDACION - MODULO CONVERSION DE UNIDADES
+2024-02-26 12:55:54,160 - INFO - Si se realizo la validacion de conversion de unidades.
+2024-02-26 12:55:54,160 - INFO - 5- VALIDACION - MODULO ALMACENES
+2024-02-26 12:56:00,772 - INFO - Si se realizo la validacion de almacenes.
+2024-02-26 12:56:00,783 - INFO - 6- VALIDACION - MODULO UNIDAD INVENTARIO
+2024-02-26 12:56:06,957 - INFO - Si se realizo la validacion de unidad de inventario.
+2024-02-26 12:56:56,349 - INFO - 4- VALIDACION - MODULO CONVERSION DE UNIDADES
+2024-02-26 12:56:56,349 - INFO - Si se realizo la validacion de conversion de unidades.
+2024-02-26 12:56:56,351 - INFO - 5- VALIDACION - MODULO ALMACENES
+2024-02-26 12:57:02,657 - INFO - Si se realizo la validacion de almacenes.
+2024-02-26 12:57:02,665 - INFO - 6- VALIDACION - MODULO UNIDAD INVENTARIO
+2024-02-26 12:57:08,732 - INFO - Si se realizo la validacion de unidad de inventario.
+2024-02-26 12:57:48,141 - INFO - 4- VALIDACION - MODULO CONVERSION DE UNIDADES
+2024-02-26 12:57:48,142 - INFO - Si se realizo la validacion de conversion de unidades.
+2024-02-26 12:57:48,142 - INFO - 5- VALIDACION - MODULO ALMACENES
+2024-02-26 12:57:54,922 - INFO - Si se realizo la validacion de almacenes.
+2024-02-26 12:57:54,930 - INFO - 6- VALIDACION - MODULO UNIDAD INVENTARIO
+2024-02-26 12:58:01,069 - INFO - Si se realizo la validacion de unidad de inventario.
+2024-02-26 16:09:37,496 - INFO - 4- VALIDACION - MODULO CONVERSION DE UNIDADES
+2024-02-26 16:09:37,496 - INFO - Si se realizo la validacion de conversion de unidades.
+2024-02-26 16:09:37,496 - INFO - 5- VALIDACION - MODULO ALMACENES
+2024-02-26 16:09:44,178 - INFO - Si se realizo la validacion de almacenes.
+2024-02-26 16:09:44,193 - INFO - 6- VALIDACION - MODULO UNIDAD INVENTARIO
+2024-02-26 16:09:50,718 - INFO - Si se realizo la validacion de unidad de inventario.
+2024-02-26 16:47:06,567 - INFO - 1- VALIDACION - MODULO TRANSACCIONES DE LA TIENDA
+2024-02-26 16:47:08,308 - INFO - No se encontraron errores en las transacciones de la tienda.
+2024-02-26 16:50:05,941 - INFO - 1- VALIDACION - MODULO TRANSACCIONES DE LA TIENDA
+2024-02-26 16:50:07,505 - INFO - No se encontraron errores en las transacciones de la tienda.
+2024-02-26 16:50:07,505 - INFO - 2- VALIDACION - MODULO EXTRACTOS
+2024-02-26 16:50:11,504 - INFO - No se encontraron errores en los extractos.
+2024-02-26 16:50:11,505 - INFO - 2.1- Obtencion de transacciones con errores
+2024-02-26 16:50:11,506 - INFO - no se consultan las transacciones de los errores de extractos.
+2024-02-26 16:51:23,376 - INFO - 1- VALIDACION - MODULO TRANSACCIONES DE LA TIENDA
+2024-02-26 16:51:24,860 - INFO - No se encontraron errores en las transacciones de la tienda.
+2024-02-26 16:51:24,870 - INFO - 2- VALIDACION - MODULO EXTRACTOS
+2024-02-26 16:51:27,910 - INFO - No se encontraron errores en los extractos.
+2024-02-26 16:51:27,910 - INFO - 2.1- Obtencion de transacciones con errores
+2024-02-26 16:51:27,910 - INFO - no se consultan las transacciones de los errores de extractos.
+2024-02-26 16:51:27,910 - INFO - no se añaden las transacciones de la tienda a la lista actual.
+2024-02-26 16:54:17,666 - INFO - 1- VALIDACION - MODULO TRANSACCIONES DE LA TIENDA
+2024-02-26 16:54:19,319 - INFO - No se encontraron errores en las transacciones de la tienda.
+2024-02-26 16:54:19,320 - INFO - 2- VALIDACION - MODULO EXTRACTOS
+2024-02-26 16:54:21,503 - INFO - No se encontraron errores en los extractos.
+2024-02-26 16:54:21,503 - INFO - 2.1- Obtencion de transacciones con errores
+2024-02-26 16:54:21,503 - INFO - no se consultan las transacciones de los errores de extractos.
+2024-02-26 16:54:21,503 - INFO - no se añaden las transacciones de la tienda a la lista actual.
+2024-02-26 16:54:33,265 - INFO - 1- VALIDACION - MODULO TRANSACCIONES DE LA TIENDA
+2024-02-26 16:54:34,748 - INFO - No se encontraron errores en las transacciones de la tienda.
+2024-02-26 16:54:34,748 - INFO - 2- VALIDACION - MODULO EXTRACTOS
+2024-02-26 16:54:36,798 - INFO - No se encontraron errores en los extractos.
+2024-02-26 16:54:36,798 - INFO - 2.1- Obtencion de transacciones con errores
+2024-02-26 16:54:36,798 - INFO - no se consultan las transacciones de los errores de extractos.
+2024-02-26 16:54:36,798 - INFO - no se añaden las transacciones de la tienda a la lista actual.
+2024-02-26 16:54:51,323 - INFO - Si se encontraron transacciones de venta con errores.
+2024-02-26 17:06:06,892 - INFO - 1- VALIDACION - MODULO TRANSACCIONES DE LA TIENDA
+2024-02-26 17:06:08,547 - INFO - No se encontraron errores en las transacciones de la tienda.
+2024-02-26 17:06:08,548 - INFO - 2- VALIDACION - MODULO EXTRACTOS
+2024-02-26 17:06:10,616 - INFO - No se encontraron errores en los extractos.
+2024-02-26 17:06:10,616 - INFO - 2.1- Obtencion de transacciones con errores
+2024-02-26 17:06:10,616 - INFO - no se consultan las transacciones de los errores de extractos.
+2024-02-26 17:06:10,617 - INFO - no se añaden las transacciones de la tienda a la lista actual.
+2024-02-26 17:06:26,168 - INFO - Si se encontraron transacciones de venta con errores.
+2024-02-26 17:07:38,154 - INFO - 1- VALIDACION - MODULO TRANSACCIONES DE LA TIENDA
+2024-02-26 17:07:39,642 - INFO - No se encontraron errores en las transacciones de la tienda.
+2024-02-26 17:07:39,644 - INFO - 2- VALIDACION - MODULO EXTRACTOS
+2024-02-26 17:07:41,922 - INFO - No se encontraron errores en los extractos.
+2024-02-26 17:07:41,923 - INFO - 2.1- Obtencion de transacciones con errores
+2024-02-26 17:07:41,924 - INFO - no se consultan las transacciones de los errores de extractos.
+2024-02-26 17:07:41,925 - INFO - no se añaden las transacciones de la tienda a la lista actual.
+2024-02-26 17:07:56,161 - INFO - Si se encontraron transacciones de venta con errores.
+2024-02-26 17:08:17,156 - INFO - 1- VALIDACION - MODULO TRANSACCIONES DE LA TIENDA
+2024-02-26 17:08:18,512 - INFO - No se encontraron errores en las transacciones de la tienda.
+2024-02-26 17:08:18,513 - INFO - 2- VALIDACION - MODULO EXTRACTOS
+2024-02-26 17:08:20,558 - INFO - No se encontraron errores en los extractos.
+2024-02-26 17:08:20,559 - INFO - 2.1- Obtencion de transacciones con errores
+2024-02-26 17:08:20,560 - INFO - no se consultan las transacciones de los errores de extractos.
+2024-02-26 17:08:20,561 - INFO - no se añaden las transacciones de la tienda a la lista actual.
+2024-02-26 17:08:33,268 - INFO - Si se encontraron transacciones de venta con errores.
+2024-02-26 17:08:44,791 - INFO - 4- VALIDACION - MODULO CONVERSION DE UNIDADES
+2024-02-26 17:08:44,812 - INFO - Si se realizo la validacion de conversion de unidades.
+2024-02-26 17:09:41,939 - INFO - 1- VALIDACION - MODULO TRANSACCIONES DE LA TIENDA
+2024-02-26 17:09:43,598 - INFO - No se encontraron errores en las transacciones de la tienda.
+2024-02-26 17:09:43,598 - INFO - 2- VALIDACION - MODULO EXTRACTOS
+2024-02-26 17:09:46,182 - INFO - No se encontraron errores en los extractos.
+2024-02-26 17:09:46,184 - INFO - 2.1- Obtencion de transacciones con errores
+2024-02-26 17:09:46,185 - INFO - no se consultan las transacciones de los errores de extractos.
+2024-02-26 17:09:46,186 - INFO - no se añaden las transacciones de la tienda a la lista actual.
+2024-02-26 17:09:59,264 - INFO - Si se encontraron transacciones de venta con errores.
+2024-02-26 17:10:10,762 - INFO - 4- VALIDACION - MODULO CONVERSION DE UNIDADES
+2024-02-26 17:10:10,788 - INFO - Si se realizo la validacion de conversion de unidades.
+2024-02-26 17:10:10,789 - INFO - 5- VALIDACION - MODULO ALMACENES
+2024-02-26 17:10:22,545 - INFO - Si se realizo la validacion de almacenes.
+2024-02-26 17:10:22,545 - INFO - 6- VALIDACION - MODULO UNIDAD INVENTARIO
+2024-02-26 17:10:34,175 - INFO - Si se realizo la validacion de unidad de inventario.
+2024-02-26 17:12:47,157 - INFO - 1- VALIDACION - MODULO TRANSACCIONES DE LA TIENDA
+2024-02-26 17:12:48,702 - INFO - No se encontraron errores en las transacciones de la tienda.
+2024-02-26 17:12:48,702 - INFO - 2- VALIDACION - MODULO EXTRACTOS
+2024-02-26 17:12:50,954 - INFO - No se encontraron errores en los extractos.
+2024-02-26 17:12:50,954 - INFO - 2.1- Obtencion de transacciones con errores
+2024-02-26 17:12:50,954 - INFO - no se consultan las transacciones de los errores de extractos.
+2024-02-26 17:12:50,969 - INFO - no se añaden las transacciones de la tienda a la lista actual.
+2024-02-26 17:12:50,970 - INFO - No hay transacciones con errores
+2024-02-26 17:13:03,815 - INFO - Si se encontraron transacciones de venta con errores.
+2024-02-26 17:13:15,105 - INFO - 4- VALIDACION - MODULO CONVERSION DE UNIDADES
+2024-02-26 17:13:15,105 - INFO - Si se realizo la validacion de conversion de unidades.
+2024-02-26 17:13:15,105 - INFO - 5- VALIDACION - MODULO ALMACENES
+2024-02-26 17:13:27,003 - INFO - Si se realizo la validacion de almacenes.
+2024-02-26 17:13:27,006 - INFO - 6- VALIDACION - MODULO UNIDAD INVENTARIO
+2024-02-26 17:13:38,751 - INFO - Si se realizo la validacion de unidad de inventario.
+2024-02-26 17:14:06,195 - INFO - 1- VALIDACION - MODULO TRANSACCIONES DE LA TIENDA
+2024-02-26 17:14:07,696 - INFO - No se encontraron errores en las transacciones de la tienda.
+2024-02-26 17:14:07,696 - INFO - 2- VALIDACION - MODULO EXTRACTOS
+2024-02-26 17:14:09,741 - INFO - No se encontraron errores en los extractos.
+2024-02-26 17:14:09,741 - INFO - 2.1- Obtencion de transacciones con errores
+2024-02-26 17:14:09,741 - INFO - no se consultan las transacciones de los errores de extractos.
+2024-02-26 17:14:09,741 - INFO - no se añaden las transacciones de la tienda a la lista actual.
+2024-02-26 17:14:09,741 - INFO - No hay transacciones con errores
+2024-02-26 17:14:22,356 - INFO - Si se encontraron transacciones de venta con errores.
+2024-02-26 17:14:37,223 - INFO - 4- VALIDACION - MODULO CONVERSION DE UNIDADES
+2024-02-26 17:14:37,240 - INFO - Si se realizo la validacion de conversion de unidades.
+2024-02-26 17:14:37,240 - INFO - 5- VALIDACION - MODULO ALMACENES
+2024-02-26 17:14:52,798 - INFO - Si se realizo la validacion de almacenes.
+2024-02-26 17:14:52,798 - INFO - 6- VALIDACION - MODULO UNIDAD INVENTARIO
+2024-02-26 17:15:04,472 - INFO - Si se realizo la validacion de unidad de inventario.
+2024-02-26 17:17:32,223 - INFO - 1- VALIDACION - MODULO TRANSACCIONES DE LA TIENDA
+2024-02-26 17:17:33,669 - INFO - No se encontraron errores en las transacciones de la tienda.
+2024-02-26 17:17:33,671 - INFO - 2- VALIDACION - MODULO EXTRACTOS
+2024-02-26 17:17:35,708 - INFO - No se encontraron errores en los extractos.
+2024-02-26 17:17:35,708 - INFO - 2.1- Obtencion de transacciones con errores
+2024-02-26 17:17:35,709 - INFO - no se consultan las transacciones de los errores de extractos.
+2024-02-26 17:17:35,709 - INFO - no se añaden las transacciones de la tienda a la lista actual.
+2024-02-26 17:17:48,851 - INFO - Si se encontraron transacciones de venta con errores.
+2024-02-26 17:17:55,287 - INFO - 4- VALIDACION - MODULO CONVERSION DE UNIDADES
+2024-02-26 17:17:55,297 - INFO - Si se realizo la validacion de conversion de unidades.
+2024-02-26 17:17:55,297 - INFO - 5- VALIDACION - MODULO ALMACENES
+2024-02-26 17:18:01,915 - INFO - Si se realizo la validacion de almacenes.
+2024-02-26 17:18:01,915 - INFO - 6- VALIDACION - MODULO UNIDAD INVENTARIO
+2024-02-26 17:18:08,363 - INFO - Si se realizo la validacion de unidad de inventario.
+2024-02-26 17:20:48,747 - INFO - 1- VALIDACION - MODULO TRANSACCIONES DE LA TIENDA
+2024-02-26 17:20:50,306 - INFO - No se encontraron errores en las transacciones de la tienda.
+2024-02-26 17:20:50,308 - INFO - 2- VALIDACION - MODULO EXTRACTOS
+2024-02-26 17:20:53,096 - INFO - No se encontraron errores en los extractos.
+2024-02-26 17:20:53,097 - INFO - 2.1- Obtencion de transacciones con errores
+2024-02-26 17:20:53,099 - INFO - no se consultan las transacciones de los errores de extractos.
+2024-02-26 17:20:53,100 - INFO - no se añaden las transacciones de la tienda a la lista actual.
+2024-02-26 17:20:53,102 - INFO - No hay errores en las transacciones de la tienda y los extractos.
+2024-02-26 17:21:21,846 - INFO - 1- VALIDACION - MODULO TRANSACCIONES DE LA TIENDA
+2024-02-26 17:21:23,257 - INFO - No se encontraron errores en las transacciones de la tienda.
+2024-02-26 17:21:23,259 - INFO - 2- VALIDACION - MODULO EXTRACTOS
+2024-02-26 17:21:25,462 - INFO - No se encontraron errores en los extractos.
+2024-02-26 17:21:25,463 - INFO - 2.1- Obtencion de transacciones con errores
+2024-02-26 17:21:25,464 - INFO - no se consultan las transacciones de los errores de extractos.
+2024-02-26 17:21:25,466 - INFO - no se añaden las transacciones de la tienda a la lista actual.
+2024-02-26 17:21:25,468 - INFO - No hay errores en las transacciones de la tienda y los extractos.
+2024-02-26 17:21:55,380 - INFO - 1- VALIDACION - MODULO TRANSACCIONES DE LA TIENDA
+2024-02-26 17:21:56,864 - INFO - No se encontraron errores en las transacciones de la tienda.
+2024-02-26 17:21:56,865 - INFO - 2- VALIDACION - MODULO EXTRACTOS
+2024-02-26 17:21:58,899 - INFO - No se encontraron errores en los extractos.
+2024-02-26 17:21:58,900 - INFO - 2.1- Obtencion de transacciones con errores
+2024-02-26 17:21:58,901 - INFO - no se consultan las transacciones de los errores de extractos.
+2024-02-26 17:21:58,901 - INFO - no se añaden las transacciones de la tienda a la lista actual.
+2024-02-26 17:21:58,902 - INFO - No hay errores en las transacciones de la tienda y en extractos.
+2024-02-26 17:33:38,526 - INFO - 1- VALIDACION - MODULO TRANSACCIONES DE LA TIENDA
+2024-02-26 17:33:39,943 - INFO - No se encontraron errores en las transacciones de la tienda.
+2024-02-26 17:33:39,943 - INFO - 2- VALIDACION - MODULO EXTRACTOS
+2024-02-26 17:33:42,065 - INFO - No se encontraron errores en los extractos.
+2024-02-26 17:33:42,066 - INFO - 2.1- Obtencion de transacciones con errores
+2024-02-26 17:33:42,066 - INFO - no se consultan las transacciones de los errores de extractos.
+2024-02-26 17:33:42,066 - INFO - no se añaden las transacciones de la tienda a la lista actual.
+2024-02-26 17:35:53,542 - INFO - 1- VALIDACION - MODULO TRANSACCIONES DE LA TIENDA
+2024-02-26 17:35:55,091 - INFO - No se encontraron errores en las transacciones de la tienda.
+2024-02-26 17:35:55,091 - INFO - 2- VALIDACION - MODULO EXTRACTOS
+2024-02-26 17:35:57,332 - INFO - No se encontraron errores en los extractos.
+2024-02-26 17:35:57,332 - INFO - 2.1- Obtencion de transacciones con errores
+2024-02-26 17:35:57,332 - INFO - no se consultan las transacciones de los errores de extractos.
+2024-02-26 17:35:57,332 - INFO - no se añaden las transacciones de la tienda a la lista actual.
+2024-02-26 17:35:59,991 - INFO - No hay errores en las transacciones de la tienda y en extractos.
+2024-02-27 08:26:07,316 - INFO - 1- VALIDACION - MODULO TRANSACCIONES DE LA TIENDA
+2024-02-27 08:26:10,526 - INFO - No se encontraron errores en las transacciones de la tienda.
+2024-02-27 08:26:10,526 - INFO - 2- VALIDACION - MODULO EXTRACTOS
+2024-02-27 08:26:15,309 - INFO - No se encontraron errores en los extractos.
+2024-02-27 08:26:15,309 - INFO - 2.1- Obtencion de transacciones con errores
+2024-02-27 08:26:15,309 - INFO - no se consultan las transacciones de los errores de extractos.
+2024-02-27 08:26:15,309 - INFO - no se añaden las transacciones de la tienda a la lista actual.
+2024-02-27 08:26:16,454 - INFO - No hay errores en las transacciones de la tienda y en extractos.
+2024-03-02 12:00:38,781 - ERROR - Error al realizar la solicitud: 400 Client Error: Internal Server Error for url: https://mistr.operations.dynamics.com/data/ReleasedProductCreationsV2?$filter=(StatementStatus%20eq%20Microsoft.Dynamics.DataEntities.RetailEodTransactionPostingStatus'Aggregated'%20and%20AggregationStatus%20eq%20Microsoft.Dynamics.DataEntities.RetailEodTransactionAggregationHeaderPostingStatus'SOCreateFailed')&$select=StatementId,StoreNumber,ErrorMessage
+2024-03-02 12:01:02,519 - ERROR - Error al realizar la solicitud: 400 Client Error: Internal Server Error for url: https://mistr.operations.dynamics.com/data/ReleasedProductCreationsV2?$filter=(StatementStatus%20eq%20Microsoft.Dynamics.DataEntities.RetailEodTransactionPostingStatus'Aggregated'%20and%20AggregationStatus%20eq%20Microsoft.Dynamics.DataEntities.RetailEodTransactionAggregationHeaderPostingStatus'SOCreateFailed')&$select=StatementId,StoreNumber,ErrorMessage
+2024-03-02 12:02:06,120 - ERROR - Error al realizar la solicitud: 400 Client Error: Internal Server Error for url: https://mistr.operations.dynamics.com/data/ReleasedProductCreationsV2?$filter=(StatementStatus%20eq%20Microsoft.Dynamics.DataEntities.RetailEodTransactionPostingStatus'Aggregated'%20and%20AggregationStatus%20eq%20Microsoft.Dynamics.DataEntities.RetailEodTransactionAggregationHeaderPostingStatus'SOCreateFailed')&$select=StatementId,StoreNumber,ErrorMessage
+2024-03-06 11:23:21,628 - ERROR - Error al realizar la solicitud: 400 Client Error: Internal Server Error for url: https://mistr.operations.dynamics.com/data/TRURetailEodTransactions?$filter=BusinessDate%20ge%202024-03-06T12:00:00Z%20and%20PostingStatus%20eq%20Microsoft.Dynamics.DataEntities.RetailEodTransactionPostingStatus'CustomerOrderCreated'%20and%20PostingErrorCode%20eq%20'Error'
+2024-03-06 11:23:23,061 - ERROR - Error al realizar la solicitud: 400 Client Error: Internal Server Error for url: https://mistr.operations.dynamics.com/data/TRURetailEodTransactions?$filter=BusinessDate%20ge%202024-03-06T12:00:00Z%20and%20PostingStatus%20eq%20Microsoft.Dynamics.DataEntities.RetailEodTransactionPostingStatus'CustomerOrderCreated'%20and%20PostingErrorCode%20eq%20'Error'
+2024-03-06 11:30:34,857 - ERROR - Error al realizar la solicitud: 404 Client Error: Not Found for url: https://mistr.operations.dynamics.com/data/TRURetailEodTransactionshttps://mistr.operations.dynamics.com/data/TRURetailEodTransactions?$filter=PostingStatus%20eq%20Microsoft.Dynamics.DataEntities.RetailEodTransactionPostingStatus'CustomerOrderCreated'%20and%20PostingErrorCode%20eq%20Microsoft.Dynamics.DataEntities.RetailEodTransactionPostingErrorCode'Error'%20and%20BusinessDate%20ge%202024-03-06T12:00:00Z%20&$select=StatementId
+2024-03-06 11:30:36,094 - ERROR - Error al realizar la solicitud: 404 Client Error: Not Found for url: https://mistr.operations.dynamics.com/data/TRURetailEodTransactionshttps://mistr.operations.dynamics.com/data/TRURetailEodTransactions?$filter=PostingStatus%20eq%20Microsoft.Dynamics.DataEntities.RetailEodTransactionPostingStatus'CustomerOrderCreated'%20and%20PostingErrorCode%20eq%20Microsoft.Dynamics.DataEntities.RetailEodTransactionPostingErrorCode'Error'%20and%20BusinessDate%20ge%202024-03-06T12:00:00Z%20&$select=StatementId
+2024-03-06 12:01:04,418 - ERROR - Error unidad inventario: string indices must be integers, not 'str'
+2024-04-13 12:19:04,095 - ERROR - Error al obtener conversion de unidades: 'list' object has no attribute 'empty'
+2024-04-22 08:24:04,436 - ERROR - Error al consultar conversion de unidades: 'bool' object has no attribute 'empty'
+2024-04-22 08:24:04,494 - ERROR - Error al consultar almacenes: 'bool' object has no attribute 'empty'
+2024-04-22 08:24:04,497 - ERROR - Error unidad inventario: 'bool' object has no attribute 'empty'
+2024-04-22 08:30:18,075 - ERROR - Error al realizar la solicitud: 400 Client Error: Internal Server Error for url: https://mistr-master.sandbox.operations.dynamics.com/data/ConversionProductUnitsWarehouses?$filter=ItemNumber%20eq%20'100164'&$select=ItemNumber,QuantityUnitySymbol,PriceWarehouseId
+2024-04-22 10:29:28,802 - ERROR - Error al realizar la solicitud: 400 Client Error: Internal Server Error for url: https://mistr-master.sandbox.operations.dynamics.com/data/ProductUnitOfMeasureConversions?$filter=ItemNumber%20eq%20'100164'%20and%20ToUnitSymbol%20eq%20'U.'%20and%20FromUnitSymbol%20eq%20'Emp.8'%20&$select=UnitOfMeasureConversion
+2024-04-22 10:29:28,814 - ERROR - Error al consultar almacenes: 'bool' object is not subscriptable
+2024-04-22 10:32:38,207 - ERROR - Error al consultar almacenes: list indices must be integers or slices, not str
+2024-04-22 10:37:56,494 - ERROR - Error al consultar almacenes: list indices must be integers or slices, not str
+2024-04-22 10:39:16,156 - ERROR - Error al realizar la solicitud: 400 Client Error: Internal Server Error for url: https://mistr-master.sandbox.operations.dynamics.com/data/ConversionProductUnitsWarehouses?$filter=UnitOfMeasureConversion%20eq%20'5637157476'&$select=InventSiteId,InventLocationId,DefaultUnit
+2024-04-22 10:55:28,270 - ERROR - Error al realizar la solicitud: 400 Client Error: Internal Server Error for url: https://mistr-master.sandbox.operations.dynamics.com/data/ConversionProductUnitsWarehouses?$filter=UnitOfMeasureConversion%20eq%20'5637157476'
+2024-04-22 11:48:26,671 - ERROR - Error al verificar TYPELOCATION: 'list' object has no attribute 'loc'
+2024-04-22 11:54:25,218 - ERROR - Error al verificar TYPELOCATION: 'list' object has no attribute 'loc'
+2024-04-22 12:00:05,327 - ERROR - Error al verificar TYPELOCATION: 'list' object has no attribute 'loc'
+2024-04-22 12:40:40,436 - ERROR - Error al verificar TYPELOCATION: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2024-04-22 12:43:43,653 - ERROR - Error al verificar TYPELOCATION: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2024-04-22 12:45:25,221 - ERROR - Error al verificar TYPELOCATION: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2024-04-22 12:46:09,554 - ERROR - Error al verificar TYPELOCATION: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2024-04-22 12:46:45,389 - ERROR - Error al verificar TYPELOCATION: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2024-04-22 12:56:33,335 - ERROR - Error al consultar conversion de unidades: 'bool' object has no attribute 'empty'
+2024-04-22 12:56:33,345 - ERROR - Error al consultar almacenes: 'bool' object has no attribute 'empty'
+2024-04-22 12:56:33,349 - ERROR - Error al consultar almacenes: 'bool' object has no attribute 'empty'
+2024-04-23 09:46:46,810 - ERROR - Error al realizar la solicitud: 400 Client Error: Internal Server Error for url: https://mistr-master.sandbox.operations.dynamics.com/data/RetailTransactionTableBIEntities?$filter=transDate%20ge%202024-03-23T00:00:00Z%20and%20ValidationStatus%20eq%20'Error'%20&$select=transactionId,transDate
+2024-04-23 09:48:20,611 - ERROR - Error al realizar la solicitud: 400 Client Error: Internal Server Error for url: https://mistr-master.sandbox.operations.dynamics.com/data/RetailTransactionTableBIEntities?$filter=ValidationStatus%20eq%20'Error'%20&$select=transactionId,transDate
+2024-04-23 10:06:12,754 - ERROR - Error al realizar la solicitud: 400 Client Error: Internal Server Error for url: https://mistr-master.sandbox.operations.dynamics.com/data/RetailTransactionTableBIEntities?$filter=ValidationStatus%20eq%20'None'%20&$select=transactionId,transDate
+2024-04-23 10:29:41,100 - ERROR - Error al realizar la solicitud: 400 Client Error: Internal Server Error for url: https://mistr-master.sandbox.operations.dynamics.com/data/RetailTransactionsAuditable?$filter=TransactionDate%20ge%202024-03-23T00:00:00Z%20and%20ValidationStatus%20eq%20'Error'&$select=TransactionId,TransactionDate,Warehouse
+2024-04-23 10:32:19,447 - ERROR - Error al realizar la solicitud: 400 Client Error: Internal Server Error for url: https://mistr-master.sandbox.operations.dynamics.com/data/RetailTransactionsAuditable?$filter=ValidationStatus%20eq%20'Error'&$select=TransactionId,TransactionDate,Warehouse
+2024-04-23 10:33:11,297 - ERROR - Error al realizar la solicitud: 400 Client Error: Internal Server Error for url: https://mistr-master.sandbox.operations.dynamics.com/data/RetailTransactionsAuditable?$filter=ValidationStatus%20eq%20'Error'
+2024-04-23 10:33:37,874 - ERROR - Error al realizar la solicitud: 400 Client Error: Internal Server Error for url: https://mistr-master.sandbox.operations.dynamics.com/data/RetailTransactionsAuditable?$filter=ValidationStatus%20eq%20''
+2024-04-23 11:04:15,975 - ERROR - Error al consultar transacciones de ventas: list indices must be integers or slices, not str
+2024-04-23 11:04:15,978 - ERROR - Error al consultar conversion de unidades: 'bool' object has no attribute 'empty'
+2024-04-23 11:04:15,979 - ERROR - Error al consultar almacenes: 'bool' object has no attribute 'empty'
+2024-04-23 11:04:15,981 - ERROR - Error al consultar almacenes: 'bool' object has no attribute 'empty'
+2024-04-23 11:04:15,982 - ERROR - Error al consultar almacenes: 'bool' object has no attribute 'empty'
+2024-04-23 11:10:37,592 - ERROR - Error al realizar la solicitud: 404 Client Error: Not Found for url: https://mistr-master.sandbox.operations.dynamics.com/data/RetailTransactionsAuditable$filter=TransactionId%20eq%20'000021-000081-10'&$select=TransactionId,TransactionDate,OperatingUnitNumber
+2024-04-23 11:14:19,525 - ERROR - Error al realizar la solicitud: 400 Client Error: Internal Server Error for url: https://mistr-master.sandbox.operations.dynamics.com/data/RetailTransactionsAuditable?$filter=ValidationStatus%20eq%20'Failed'&$select=TransactionId,TransactionDate,OperatingUnitNumber
+2024-04-23 11:22:39,639 - ERROR - Error al realizar la solicitud: 400 Client Error: Internal Server Error for url: https://mistr-master.sandbox.operations.dynamics.com/data/RetailTransactionsAuditable?$count=true&$filter=ValidationStatus%20eq%20'Failed'&$select=TransactionId,TransactionDate,OperatingUnitNumber
+2024-04-23 11:29:15,489 - ERROR - Error al consultar almacenes: 'ApiDynamics' object has no attribute 'verify_extract_error'
+2024-04-23 11:37:44,942 - ERROR - Error al consultar VerifyExtractError: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2024-04-23 11:42:22,022 - ERROR - Error al realizar la solicitud RetailTransactionTableBIEntities: 'list' object has no attribute 'empty'
+2024-04-23 11:42:23,174 - ERROR - Error al realizar la solicitud RetailTransactionTableBIEntities: 'list' object has no attribute 'empty'
+2024-04-23 11:42:24,291 - ERROR - Error al realizar la solicitud RetailTransactionTableBIEntities: 'list' object has no attribute 'empty'
+2024-04-23 11:42:25,436 - ERROR - Error al realizar la solicitud RetailTransactionTableBIEntities: 'list' object has no attribute 'empty'
+2024-04-23 11:42:26,569 - ERROR - Error al realizar la solicitud RetailTransactionTableBIEntities: 'list' object has no attribute 'empty'
+2024-04-23 11:42:27,668 - ERROR - Error al realizar la solicitud RetailTransactionTableBIEntities: 'list' object has no attribute 'empty'
+2024-04-23 11:42:29,078 - ERROR - Error al realizar la solicitud RetailTransactionTableBIEntities: 'list' object has no attribute 'empty'
+2024-04-23 11:42:30,238 - ERROR - Error al realizar la solicitud RetailTransactionTableBIEntities: 'list' object has no attribute 'empty'
+2024-04-23 11:42:31,489 - ERROR - Error al realizar la solicitud RetailTransactionTableBIEntities: 'list' object has no attribute 'empty'
+2024-04-23 11:45:18,815 - ERROR - Error al realizar la solicitud RetailTransactionTableBIEntities: 'list' object has no attribute 'empty'
+2024-04-23 11:45:19,935 - ERROR - Error al realizar la solicitud RetailTransactionTableBIEntities: 'list' object has no attribute 'empty'
+2024-04-23 11:45:21,068 - ERROR - Error al realizar la solicitud RetailTransactionTableBIEntities: 'list' object has no attribute 'empty'
+2024-04-23 11:45:22,215 - ERROR - Error al realizar la solicitud RetailTransactionTableBIEntities: 'list' object has no attribute 'empty'
+2024-04-23 11:45:23,377 - ERROR - Error al realizar la solicitud RetailTransactionTableBIEntities: 'list' object has no attribute 'empty'
+2024-04-23 11:45:24,478 - ERROR - Error al realizar la solicitud RetailTransactionTableBIEntities: 'list' object has no attribute 'empty'
+2024-04-23 11:51:08,752 - ERROR - Error al consultar VerifyExtractError: 'bool' object is not subscriptable
+2024-04-23 11:59:17,481 - ERROR - Error al consultar VerifyExtractError: 'bool' object is not subscriptable
+2024-04-23 12:08:35,844 - ERROR - Error al consultar validacion_sitio_almacen: 'bool' object is not subscriptable
+2024-04-24 09:04:25,096 - ERROR - Error al consultar conversion de unidades: 'codigo_producto'
+2024-04-24 09:04:25,102 - ERROR - Error al consultar almacenes: 'codigo_producto'
+2024-04-24 09:04:25,105 - ERROR - Error al consultar validacion_sitio_almacen: 'codigo_producto'
+2024-04-24 09:04:25,108 - ERROR - Error al consultar validacion_error_transaccion: 'numero_transaccion'
+2024-04-24 12:18:35,610 - ERROR - Error al realizar la solicitud RetailTransactionValidationErrorBIEntities: 'ApiDynamics' object has no attribute 'getFilterErrorMessageExtract'
+2024-04-24 12:18:37,334 - ERROR - Error al realizar la solicitud RetailTransactionValidationErrorBIEntities: 'ApiDynamics' object has no attribute 'getFilterErrorMessageExtract'
+2024-04-24 12:18:38,978 - ERROR - Error al realizar la solicitud RetailTransactionValidationErrorBIEntities: 'ApiDynamics' object has no attribute 'getFilterErrorMessageExtract'
+2024-04-24 12:24:48,266 - ERROR - Error al consultar validacion_error_transaccion: 'NoneType' object has no attribute 'empty'
+2024-04-25 11:17:38,786 - ERROR - Error al realizar la verifiación del cliente: False
+2024-05-02 08:42:57,087 - ERROR - Error al obtener el token: Expecting value: line 3 column 1 (char 4)
+2024-05-02 08:42:58,623 - ERROR - Error al realizar la solicitud: 401 Client Error: Unauthorized for url: https://mistr.operations.dynamics.com/data/RetailTransactionsAuditable?$count=true&$filter=ValidationStatus%20eq%20Microsoft.Dynamics.DataEntities.RetailTransactionValidationStatus'Failed'&$select=TransactionId,TransactionDate,OperatingUnitNumber
+2024-05-02 08:43:00,160 - ERROR - Error al realizar la solicitud: 401 Client Error: Unauthorized for url: https://mistr.operations.dynamics.com/data/RetailEodStatementAggregations?$filter=(StatementStatus%20eq%20Microsoft.Dynamics.DataEntities.RetailEodTransactionPostingStatus'Aggregated'%20and%20AggregationStatus%20eq%20Microsoft.Dynamics.DataEntities.RetailEodTransactionAggregationHeaderPostingStatus'SOCreateFailed')&$select=StatementId,StoreNumber,ErrorMessage
+2024-05-02 08:43:01,800 - ERROR - Error al realizar la solicitud: 401 Client Error: Unauthorized for url: https://mistr.operations.dynamics.com/data/CustomersV3?$count=true%20&$select=CustomerAccount,NameAlias,PersonLastName
+2024-05-02 08:43:01,807 - ERROR - Error al realizar la verifiación del cliente: 'cuanta_cliente'
+2024-05-04 10:43:05,278 - ERROR - Error al realizar la solicitud: 400 Client Error: Internal Server Error for url: https://mistr-master.sandbox.operations.dynamics.com/data/ReleasedProductsV2?$filter=ItemNumber%20eq%20100018%20&$select=InventoryUnitSymbol
+2024-05-04 10:43:06,415 - ERROR - Error al realizar la solicitud: 400 Client Error: Internal Server Error for url: https://mistr-master.sandbox.operations.dynamics.com/data/ReleasedProductsV2?$filter=ItemNumber%20eq%20101033%20&$select=InventoryUnitSymbol
+2024-05-04 10:43:07,534 - ERROR - Error al realizar la solicitud: 400 Client Error: Internal Server Error for url: https://mistr-master.sandbox.operations.dynamics.com/data/ReleasedProductsV2?$filter=ItemNumber%20eq%20100013%20&$select=InventoryUnitSymbol
+2024-05-04 10:43:08,665 - ERROR - Error al realizar la solicitud: 400 Client Error: Internal Server Error for url: https://mistr-master.sandbox.operations.dynamics.com/data/ReleasedProductsV2?$filter=ItemNumber%20eq%20100012%20&$select=InventoryUnitSymbol

@@ -5,7 +5,7 @@ from ..functions.function_api_dynamic import *
 class ApiDynamics:
     
     def __init__(self):
-        self.url = self.get_entorno_trabajo(1)
+        self.url = self.get_entorno_trabajo(2)
         self.token = self.get_token()
 
     def get_entorno_trabajo(self, entorno):
