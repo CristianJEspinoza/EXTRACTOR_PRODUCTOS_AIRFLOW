@@ -1,0 +1,9 @@
+apache-airflow-providers-microsoft-mssql
+apache-airflow[cncf.kubernetes]
+azure-storage-blob
+requests
+pandas
+pendulum
+beautifulsoup4
+mysql-connector-python
+openpyxl

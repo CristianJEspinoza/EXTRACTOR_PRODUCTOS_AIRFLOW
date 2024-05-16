@@ -1,0 +1,8 @@
+# Ignorar la carpeta __pycache__ en cualquier nivel
+__pycache__/
+
+# Ignorar todo el contenido dentro de la carpeta .env
+env/*
+
+# ignora los log
+app.log
